@@ -1362,6 +1362,22 @@ textarea.form-control, textarea.form-control:focus {
   width: 90%;
 }
 
+.skills-second-style .skill-container.skill-100 .skill-percentage {
+  width: 100%;
+}
+.skills-second-style .skill-container.skill-95 .skill-percentage {
+  width: 95%;
+}
+.skills-second-style .skill-container.skill-90 .skill-percentage {
+  width: 90%;
+}
+.skills-second-style .skill-container.skill-85 .skill-percentage {
+  width: 85%;
+}
+.skills-second-style .skill-container.skill-80 .skill-percentage {
+  width: 80%;
+}
+
 /* --- End of Skills Values --- */
 
 /* Animate skills on subpage load */
@@ -1389,7 +1405,7 @@ textarea.form-control, textarea.form-control:focus {
   list-style: none;
 }
 
-.knowledges li {;
+.knowledges li {
   display: inline-block;
   background-color: #5050f5;
   border-radius: 3px;
@@ -1480,7 +1496,7 @@ textarea.form-control, textarea.form-control:focus {
 }
 
 .lmpixels-map iframe {
-  height: 140px;
+  height: 370px;
   max-width: 100%;
   width: 100%;
   margin: 0;
